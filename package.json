@@ -1,0 +1,13 @@
+{
+  "name": "ttn-api",
+  "description": "TakasumiBOT 株式情報 通知システム 外部API",
+  "version": "2.5.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.20.0"
+  }
+}
